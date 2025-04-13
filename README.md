@@ -4,7 +4,7 @@
 
 # Création du logo
 
-![logo uranium](./logoUr.jpg)
+![logo uranium](./logoUranium.jpg)
 
 ## Exemple de posts vidéo
 
