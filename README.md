@@ -12,4 +12,4 @@
 
 ## Exemple de posts image
 
-![Post nouvelle sortie de ZED](./sortieZed.jpg)
+![Post nouvelle sortie de ZED](./zedSortie.jpg)
