@@ -8,4 +8,8 @@
 
 ## Exemple de posts vidéo
 
+[Vidéo : LES SORTIES DU MOIS DE JUIN](https://youtu.be/TQ7_IjM9RXk)
+
 ## Exemple de posts image
+
+![Post nouvelle sortie de ZED](./sortieZed.jpg)
