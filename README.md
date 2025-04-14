@@ -1,46 +1,54 @@
-# Compte Instagram urnaium.actu
+# 🌐 Compte Instagram : [@urnaium.actu](https://www.instagram.com/uranium.actu)
 
-[www.instagram.com/uranium.actu](https://www.instagram.com/uranium.actu)
+---
 
-# Création du logo
+## 🎨 Création du logo
 
 ![logo uranium](./logoUra.jpg)
 
-## Exemple de posts vidéo
+---
 
-[Vidéo : LES SORTIES DU MOIS DE JUIN](https://youtu.be/TQ7_IjM9RXk)
+## 📽️ Exemple de posts vidéo
 
-# Exemple de posts image
+### 🔥 Vidéo : [LES SORTIES DU MOIS DE JUIN](https://youtu.be/TQ7_IjM9RXk)
 
-### NOUVELLE SORTIE DE ZED
+[![Voir la vidéo](https://img.shields.io/badge/Regarder%20la%20Vidéo-%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/TQ7_IjM9RXk)
+
+---
+
+## 🖼️ Exemple de posts image
+
+### 🆕 NOUVELLE SORTIE DE ZED
 
 ![Post nouvelle sortie de ZED](./zedSortie.jpg)
 
-### ANNONCE NOUVELLE ECOLE SAISON III
+### 📚 ANNONCE NOUVELLE ECOLE SAISON III
 
 ![Post annonce Nouvelle Ecole SAISON III](./annonceNouvelleEcoleS3.jpg)
 
-### SORTIE DU COLORS DE TIAKOLA
+### 🎤 SORTIE DU COLORS DE TIAKOLA
 
 ![Post sortie du Colors de Tiakola](./tiakolaColors.jpg)
 
-### BUSH X TRAVIS SCOTT
+### 💥 BUSH X TRAVIS SCOTT
 
 ![Post Bushi et Travis Scott](./bushiXTravis.jpg)
 
-### SORTIE DERTAY LIVE SESSION
+### 🎶 SORTIE DERTAY LIVE SESSION
 
 ![Post Dertay Live Session](./dertayLiveSession.jpg)
 
-### SORTIE FEATURING GAZO ANGELE ET TIAKOLA
+### 👑 SORTIE FEATURING GAZO, ANGELE ET TIAKOLA
 
 ![Post Featuring Gazo, Angele et Tiakola](./takolaXAngeleXGazo.jpg)
 
-### GAGNANT DE NOUVELLE ECOLE SAISON III
+### 🏆 GAGNANT DE NOUVELLE ECOLE SAISON III
 
 ![Post Gagnant Nouvelle Ecole SAISON III](./gagnantNouvelleEcole.jpg)
 
+---
 
+## 🔧 Technologies utilisées
 
-
-
+![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
