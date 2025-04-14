@@ -7,7 +7,7 @@
 
 ## 🎨 Création du logo sur **Illustrator**
 
-![logo uranium](./logoUrana.png)
+![logo uranium](./logoUr.png)
 
 ---
 
