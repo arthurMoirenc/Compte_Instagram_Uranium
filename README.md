@@ -1,4 +1,4 @@
-<h1 align="center">🧪 **URANIUM** </h1>
+<h1 align="center">🧪 URANIUM </h1>
 
 # 🌐 Compte Instagram : 
 [![Instagram](https://img.shields.io/badge/Instagram-%40urnaium.actu-006400?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uranium.actu)
