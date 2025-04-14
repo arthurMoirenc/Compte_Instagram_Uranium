@@ -47,8 +47,3 @@
 ![Post Gagnant Nouvelle Ecole SAISON III](./gagnantNouvelleEcole.jpg)
 
 ---
-
-## 🔧 Technologies utilisées
-
-![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
