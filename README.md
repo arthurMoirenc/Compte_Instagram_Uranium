@@ -21,7 +21,7 @@
 
 ## 🖼️ Exemple de posts image
 
-### 🆕 NOUVELLE SORTIE DE ZED
+### [![🆕 NOUVELLE SORTIE DE ZED](https://img.shields.io/badge/🆕%20NOUVELLE%20SORTIE%20DE%20ZED-006400?style=for-the-badge&logo=music&logoColor=white)](./zedSortie.jpg)
 
 ![Post nouvelle sortie de ZED](./zedSortie.jpg)
 
