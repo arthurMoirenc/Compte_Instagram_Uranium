@@ -1,6 +1,7 @@
 <h1 align="center">🧪 URANIUM </h1>
 
-# 🌐 Compte Instagram : [@urnaium.actu](https://www.instagram.com/uranium.actu)
+# 🌐 Suivez-nous sur Instagram : 
+[![Instagram](https://img.shields.io/badge/Instagram-%40urnaium.actu-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uranium.actu)
 
 ---
 
