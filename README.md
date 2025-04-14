@@ -13,7 +13,7 @@
 
 ## 📽️ Exemple de posts vidéo
 
-### 🔥 Vidéo : [LES SORTIES DU MOIS DE JUIN](https://youtu.be/TQ7_IjM9RXk)
+### Vidéo : [LES SORTIES DU MOIS DE JUIN](https://youtu.be/TQ7_IjM9RXk)
 
 [![Voir la vidéo](https://img.shields.io/badge/Regarder%20la%20Vidéo-%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/TQ7_IjM9RXk)
 
